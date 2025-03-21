@@ -7,7 +7,7 @@ const clientId = "BCx5UY9LtuNMxzW1IwGo8xW2o6wzDGkVDYmN725HJ01TPM8tXkjKM2ahBIatIN
 const chainConfig = {
     chainNamespace: CHAIN_NAMESPACES.EIP155,
     chainId: "0xaa36a7",
-    rpcTarget: "https://rpc.ankr.com/eth_sepolia",
+    rpcTarget: "https://eth-sepolia.g.alchemy.com/v2/czhaFuIMd-NpIQtkFwJV31SDKMRfjcOO",
     displayName: "Sepolia Testnet",
     blockExplorerUrl: "https://sepolia.etherscan.io/",
     ticker: "ETH",
